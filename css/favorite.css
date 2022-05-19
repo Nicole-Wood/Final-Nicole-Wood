@@ -1,0 +1,41 @@
+h3{
+    font-family: Arial;
+  }
+  h4{
+    font-family: Arial;
+  }
+  h5{
+    font-family: Arial;
+  }
+  h6{
+    font-family: Arial;
+    font-size: larger;
+  }
+header{
+    font-family: comic;
+      text-align: center;
+      text-size-adjust: large;
+    color: rgb(45, 59, 71); 
+}
+header{
+      border: 5px solid #ffffff00;
+    background-color: rgb(255, 223, 223);
+}
+div.left, div.middle, div.right{
+    border: 3px solid rgba(255, 153, 0, 0); 
+    width: 30%;
+  }
+  aside img{
+    width: 100%;
+  }
+  aside{
+    display: flex;
+    justify-content: space-between;
+  }
+
+.col{
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+.topSpace{
+    margin-top: 75px;
+}

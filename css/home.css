@@ -1,0 +1,44 @@
+h3{
+    font-family: Arial;
+  }
+  h4{
+    font-family: Arial;
+  }
+  h5{
+    font-family: Arial;
+  }
+  h6{
+    font-family: Arial;
+    font-size: larger;
+  }
+header{
+    font-family: comic;
+      text-align: center;
+      text-size-adjust: larger;
+    color: rgb(0, 0, 0); 
+}
+header{
+    height: 600px;
+    background-color: rgba(255, 223, 223, 0.616);
+}
+div.left, div.middle, div.right{
+    border: 3px solid rgba(255, 153, 0, 0); 
+    width: 30%;
+  }
+  aside img{
+    width: 100%;
+  }
+  aside{
+    display: flex;
+    justify-content: space-between;
+  }
+  .container{
+    height: 600px;
+    background-image: url('../images/mini\ seal.png');
+  }
+.col{
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+.topSpace{
+    margin-top: 75px;
+}
